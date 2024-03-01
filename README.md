@@ -1,7 +1,7 @@
 ### Olá eu sou o Lucas Gabriel ✌️
 
 
-![Instagram](https://www.instagram.com/lucas.tavares2004/)
+https://www.instagram.com/lucas.tavares2004/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGTavares&hide=contribs,prs)
 
@@ -36,3 +36,5 @@
 
   ### Apaixonado por tecnologia e sempre estudando para acompanhar o mercado
   
+
+[def]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
